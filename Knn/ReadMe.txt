@@ -18,7 +18,7 @@ Finally, our input x gets assigned to the class with the largest probability.
 Data Set used for implementing Knn algorithm - IrisDataSet (https://archive.ics.uci.edu/ml/datasets/Iris)
 
 There are two implementations here -
-1. One implementation is using Scikit learn
-2. Other implementation is custom implementation of Knn Algorithm.
+1. One of them is using Scikit learn
+2. And the Other is the custom implementation of Knn Algorithm.
 
-I have referred to the website - https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/ for my understanding and clarity.
+I have referred the website - https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/ for my understanding and clarity of Knn algorithm.
